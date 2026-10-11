@@ -1,0 +1,5 @@
+*.exe
+badge-test.json
+clipboard.*
+*-backup-*/
+setup-backup-*/
